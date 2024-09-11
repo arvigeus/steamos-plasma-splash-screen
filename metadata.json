@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "arvigeus@gmail.com",
+                "Name": "Nikolay Stoynov"
+            }
+        ],
+        "Category": "",
+        "Description": "SteamOS Plasma Splashscreen",
+        "Id": "steamos",
+        "License": "GPLv3",
+        "Name": "steamos",
+        "Website": "https://github.com/arvigeus/steamos-kde-plasma-splashscreen"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
